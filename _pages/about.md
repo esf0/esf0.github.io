@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Egor Sedov personal page"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -20,7 +20,6 @@ please feel free to reach out via the links to my social media and contact infor
 Thank you for taking the time to learn more about me, and I hope you are having a wonderful day!
 
 Education
-
 ======
 
 * Engineering degree at Ecole des Ponts ParisTech
@@ -28,7 +27,6 @@ Education
 * Bachelor degree at Novosibirsk State University
 
 Current research
-
 ======
 
 As a PhD student at the Aston Institute of Photonic Technologies, 
