@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Egor Sedov"
   avatar           : "profile.jpg"
-  bio              : "PhD student | researcher | Aston Institute of Photonic Technologies"
+  bio              : "PhD student \n Researcher in nonlinear optics and optical communication \n Aston Institute of Photonic Technologies"
   location         : "Birmingham, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Egor-Sedov-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-4343-8032"
