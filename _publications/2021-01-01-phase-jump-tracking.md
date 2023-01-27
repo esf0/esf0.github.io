@@ -3,7 +3,7 @@ title: "Introducing phase jump tracking - a fast method for eigenvalue evaluatio
 collection: publications
 permalink: /publication/2021-phase-jump-tracking
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2021
+date: 2021-01-01
 venue: 'Communications in Nonlinear Science and Numerical Simulation'
 paperurl: '10.1016/j.cnsns.2021.105718'
 citation: 'Chekhovskoy, I. et al. (2021). &quot;Introducing phase jump tracking - a fast method for eigenvalue evaluation of the direct Zakharov-Shabat problem.&quot; 
