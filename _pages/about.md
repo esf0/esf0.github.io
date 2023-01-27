@@ -23,7 +23,7 @@ Education
 ======
 
 * Engineering degree at Ecole des Ponts ParisTech
-* Master degree Novosibirsk State University
+* Master degree at Novosibirsk State University
 * Bachelor degree at Novosibirsk State University
 
 Current research
