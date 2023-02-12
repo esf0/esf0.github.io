@@ -2,6 +2,7 @@
 title: "Application of neural networks to determine the discrete spectrum of the direct Zakharov–Shabat problem"
 collection: publications
 permalink: /publication/2020-12-01-application-of-neural-networks-to-determine-the-discrete-spectrum
+excerpt: ''
 date: 2020-12-01
 venue: 'Quantum Electronics'
 ---

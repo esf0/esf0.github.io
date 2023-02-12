@@ -2,6 +2,7 @@
 title: "Nonlinear Spectrum of Conventional OFDM and WDM Return-to-Zero Signals in Nonlinear Channel"
 collection: publications
 permalink: /publication/2020-01-15-nonlinear-spectrum-ofdm-wdm
+excerpt: ''
 date: 2020-01-15
 venue: 'Journal of Lightwave Technology'
 ---

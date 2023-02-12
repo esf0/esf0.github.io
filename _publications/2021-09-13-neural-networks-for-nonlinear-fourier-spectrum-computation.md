@@ -2,6 +2,7 @@
 title: "Neural Networks For Nonlinear Fourier Spectrum Computation"
 collection: publications
 permalink: /publication/2021-09-13-neural-networks-for-nonlinear-fourier-spectrum-computation
+excerpt: ''
 date: 2021-09-13
 venue: '2021 European Conference on Optical Communication (ECOC) | IEEE'
 ---
