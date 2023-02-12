@@ -2,6 +2,7 @@
 title: "Computing continuous nonlinear Fourier spectrum of optical signal with artificial neural networks"
 collection: publications
 permalink: /publication/2021-08-01-computing-continuous-nonlinear-fourier-spectrum-of-optical-signal-with-artificial-neural-networks
+excerpt: ''
 date: 2021-08-01
 venue: 'Applications of Machine Learning 2021 | SPIE'
 ---
@@ -19,7 +20,6 @@ complex optical signals when the conventional algorithms can fail to deliver an 
 Download paper [here](http://esf0.github.io/files/computing_continuous_nonlinear_fourier_spectrum_of_optical_signal_with_artificial_neural_networks.pdf) or 
 [here](https://doi.org/10.1117/12.2594127)  
 
-Complete version on [arXiv](https://arxiv.org/abs/2106.11586)
 
 ```
 @inproceedings{10.1117/12.2594127,

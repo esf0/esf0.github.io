@@ -2,6 +2,7 @@
 title: "Optimal input signal distribution for a nonlinear optical fiber channel with small Kerr nonlinearity"
 collection: publications
 permalink: /publication/2022-03-01-optimal-input-signal-distribution-for-a-nonlinear-optical-fiber-channel
+excerpt: ' '
 date: 2022-03-01
 venue: 'Journal of the Optical Society of America B | Optica Publishing Group'
 ---
@@ -19,6 +20,8 @@ Finally, we present the method of the construction of the input signal with the 
 
 Download paper [here](http://esf0.github.io/files/optimal_input_signal_distribution_for_a_nonlinear_optical_fiber_channel.pdf) or 
 [here](https://opg.optica.org/josab/fulltext.cfm?uri=josab-39-3-810&id=469535&ibsearch=false)
+
+Complete version on [arXiv](https://arxiv.org/abs/2106.11586)
 
 ```
 @article{reznichenko2022optimal,
