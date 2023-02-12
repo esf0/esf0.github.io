@@ -22,3 +22,5 @@ network architecture. The benefits of using the neural network as compared to th
 conventional numerical NFT methods becomes evident when we deal with noise-corrupted 
 signals, where the neural networks-based processing results in effective noise suppression. 
 We show a neural network capable of reconstructing a signal from an already denoised continuous spectrum. 
+
+Download poster [here](http://esf0.github.io/files/poster/Poster__Neural_network_for_direct_and_inverse_nonlinear_Fourier_transform.pdf)

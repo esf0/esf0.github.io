@@ -23,3 +23,5 @@ to explore the use of Gradient Boosting (GB) technique for nonlinear equalizatio
 In practical implementation, the use of
 GB can be implemented through the use of pretrained
 switchers on a field-programmable gate array (FPGA)
+
+Download poster [here](http://esf0.github.io/files/poster/Poster__Forest_Equalization_for_Coherent_Optical_Transmission_Systems.pdf)
