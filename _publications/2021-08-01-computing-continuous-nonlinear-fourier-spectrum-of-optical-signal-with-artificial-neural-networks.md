@@ -17,7 +17,9 @@ dataset was less than 0.3%. Our findings highlight the fundamental possibility o
 complex optical signals when the conventional algorithms can fail to deliver an acceptable result.
 
 Download paper [here](http://esf0.github.io/files/computing_continuous_nonlinear_fourier_spectrum_of_optical_signal_with_artificial_neural_networks.pdf) or 
-[here](https://doi.org/10.1117/12.2594127)
+[here](https://doi.org/10.1117/12.2594127)  
+
+Complete version on [arXiv](https://arxiv.org/abs/2106.11586)
 
 ```
 @inproceedings{10.1117/12.2594127,
