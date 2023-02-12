@@ -2,15 +2,36 @@
 title: "Soliton content in the standard optical OFDM signal"
 collection: publications
 permalink: /publication/2018-12-15-soliton-content
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-12-15
 venue: 'Optics Letters'
-paperurl: '10.1364/OL.43.005985'
-citation: 'Sedov, E. et al. (2018). &quot;Soliton content in the standard optical OFDM signal.&quot; 
-<i>Optics Letters</i>. 43.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The nonlinear Schrödinger equation (NLSE) is often used as a 
+master path-average model for fiber-optic transmission lines. 
+In general, the NLSE describes the co-existence of dispersive waves and soliton pulses. 
+The propagation of a signal in such a nonlinear channel is conceptually different 
+from linear systems. 
+We demonstrate here that the conventional orthogonal frequency-division multiplexing (OFDM) 
+input optical signal at powers typical for modern communication systems 
+might have soliton components statistically created by the random process 
+corresponding to the information content. Applying the Zakharov–Shabat 
+spectral problem to a single OFDM symbol with multiple subcarriers, we 
+quantify the effect of the statistical soliton occurrence in such an information-bearing optical signal. 
+Moreover, we observe that at signal powers optimal for transmission, an OFDM symbol 
+incorporates multiple solitons with high probability. The considered optical communication example 
+is relevant to a more general physical problem of the generation of coherent structures from noise.
 
-[Download paper here](http://www.scopus.com/inward/record.url?scp=85058748600&partnerID=8YFLogxK)
+Download paper [here](http://esf0.github.io/files/soliton_content.pdf)
+or [here](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-43-24-5985)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+```bibtex
+@article{sedov2018soliton,
+  title={Soliton content in the standard optical OFDM signal},
+  author={Sedov, Egor V and Redyuk, Alexey A and Fedoruk, Mikhail P and Gelash, Andrey A and Frumin, Leonid L and Turitsyn, Sergey K},
+  journal={Optics Letters},
+  volume={43},
+  number={24},
+  pages={5985--5988},
+  year={2018},
+  publisher={Optica Publishing Group}
+}
+```

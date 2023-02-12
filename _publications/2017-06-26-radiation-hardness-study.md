@@ -2,13 +2,17 @@
 title: "Radiation hardness study of CsI(Tl) scintillation crystals for the Belle II calorimeter"
 collection: publications
 permalink: /publication/2017-06-26-radiation-hardness-study
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017-06-26
 venue: 'Journal of Instrumentation'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The electromagnetic calorimeter of the Belle II detector contains CsI(Tl) crystals of
+30 cm length which have been used at the Belle experiment. We measure the light output degradation 
+of CsI(Tl) crystals exposed to uniformly distributed absorbed dose. Four Belle typical
+crystals with known scintillation characteristics are irradiated with photons at a total dose of about
+35 krad. Results show acceptable radiation hardness for the Belle II experiment conditions where
+the accumulated dose in crystals could reach 10 krad.
 
-Download paper [here](http://www.scopus.com/inward/record.url?scp=85023188334&partnerID=8YFLogxK) or 
+Download paper [here](http://esf0.github.io/files/radiation_hardness.pdf) or 
 [here](https://iopscience.iop.org/article/10.1088/1748-0221/12/06/C06034)
 
 ```
