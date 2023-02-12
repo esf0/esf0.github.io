@@ -1,5 +1,5 @@
 ---
-title: "Online Conference talk: Computing continuous nonlinear Fourier spectrum of optical signal with artificial neural networks"
+title: "Computing continuous nonlinear Fourier spectrum of optical signal with artificial neural networks"
 collection: talks
 type: "Conference talk"
 permalink: /talks/2021-08-01-SPIE-Optics-Photonics

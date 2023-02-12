@@ -1,5 +1,5 @@
 ---
-title: "Poster: Forest Equalization for Coherent Optical Transmission Systems"
+title: "Forest Equalization for Coherent Optical Transmission Systems"
 collection: talks
 type: "Poster presentation"
 permalink: /talks/2023-02-14-top-conference

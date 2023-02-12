@@ -1,5 +1,5 @@
 ---
-title: "Poster: Neural Network for Direct and Inverse Nonlinear Fourier Transform"
+title: "Neural Network for Direct and Inverse Nonlinear Fourier Transform"
 collection: talks
 type: "Poster presentation"
 permalink: /talks/2022-02-14-top-conference
