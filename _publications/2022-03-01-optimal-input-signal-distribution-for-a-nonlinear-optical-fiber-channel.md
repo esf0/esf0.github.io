@@ -5,6 +5,7 @@ permalink: /publication/2022-03-01-optimal-input-signal-distribution-for-a-nonli
 date: 2022-03-01
 venue: 'Journal of the Optical Society of America B | Optica Publishing Group'
 ---
+
 We consider the information channel described by the Schrödinger equation with additive Gaussian noise. 
 We introduce the model of the input signal and the model of the output signal receiver. 
 For this channel, using perturbation theory for the small nonlinearity parameter, 
