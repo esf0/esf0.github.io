@@ -22,6 +22,8 @@ Thank you for taking the time to learn more about me, and I hope you are having 
 Education
 ======
 
+* PhD at Aston University
+* PhD at Novosibirsk State University (incomplete)
 * Engineering degree at Ecole des Ponts ParisTech
 * Master degree at Novosibirsk State University
 * Bachelor degree at Novosibirsk State University
