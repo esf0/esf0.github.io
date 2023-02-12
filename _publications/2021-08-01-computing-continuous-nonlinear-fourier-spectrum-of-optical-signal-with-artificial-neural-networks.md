@@ -17,7 +17,7 @@ and excluded from training. The final value of the relative error for the entire
 dataset was less than 0.3%. Our findings highlight the fundamental possibility of using the NNs to analyze and process 
 complex optical signals when the conventional algorithms can fail to deliver an acceptable result.
 
-Download paper [here](http://esf0.github.io/files/computing_continuous_nonlinear_fourier_spectrum_of_optical_signal_with_artificial_neural_networks.pdf) or 
+Download paper [here](http://esf0.github.io/files/publication/computing_continuous_nonlinear_fourier_spectrum_of_optical_signal_with_artificial_neural_networks.pdf) or 
 [here](https://doi.org/10.1117/12.2594127)  
 
 

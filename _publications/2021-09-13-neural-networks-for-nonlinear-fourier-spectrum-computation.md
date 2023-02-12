@@ -11,7 +11,7 @@ Fourier transform algorithms for processing the noise-corrupted optical signal.
 Applying the Bayesian hyper-parameters optimisation, we design the architecture of 
 neural networks capable to compute nonlinear signal spectrum at low SNR more accurately than conventional algorithms.
 
-Download paper [here](http://esf0.github.io/files/neural_networks_for_nonlinear_fourier_spectrum_computation.pdf) or 
+Download paper [here](http://esf0.github.io/files/publication/neural_networks_for_nonlinear_fourier_spectrum_computation.pdf) or 
 [here](https://ieeexplore.ieee.org/abstract/document/9605844)
 
 ```

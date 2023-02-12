@@ -21,7 +21,7 @@ Moreover, we observe that at signal powers optimal for transmission, an OFDM sym
 incorporates multiple solitons with high probability. The considered optical communication example 
 is relevant to a more general physical problem of the generation of coherent structures from noise.
 
-Download paper [here](http://esf0.github.io/files/soliton_content.pdf)
+Download paper [here](http://esf0.github.io/files/publication/soliton_content.pdf)
 or [here](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-43-24-5985)
 
 ```bibtex

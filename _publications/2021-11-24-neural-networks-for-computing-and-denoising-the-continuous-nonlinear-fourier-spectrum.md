@@ -21,7 +21,7 @@ data coincides with that of the validation signals. Finally, we also demonstrate
 important for optical communication applications can be 
 recovered with high accuracy and denoised by the neural network with the same architecture.
 
-Download paper [here](http://esf0.github.io/files/neural_networks_for_computing_and_denoising_the_continuous_nonlinear_fourier_spectrum.pdf) or 
+Download paper [here](http://esf0.github.io/files/publication/neural_networks_for_computing_and_denoising_the_continuous_nonlinear_fourier_spectrum.pdf) or 
 [here](https://www.nature.com/articles/s41598-021-02252-9)  
 Initial version at [researchsquare](https://assets.researchsquare.com/files/rs-654419/v1_covered.pdf?c=1631871409)
 

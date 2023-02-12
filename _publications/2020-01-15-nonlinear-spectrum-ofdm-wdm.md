@@ -23,7 +23,7 @@ we quantify the effect of statistical occurrence of discrete eigenvalues in such
 signal. Moreover, we observe that at signal powers optimal for transmission, an 
 OFDM symbol with high probability has a soliton component.
 
-Download paper [here](https://esf0.github.io/files/nonlinear_spectrum_of_conventional_ofdm_and_wdm.pdf) or 
+Download paper [here](https://esf0.github.io/files/publication/nonlinear_spectrum_of_conventional_ofdm_and_wdm.pdf) or 
 [here](https://ieeexplore.ieee.org/abstract/document/8915744)
 
 ```bibtex

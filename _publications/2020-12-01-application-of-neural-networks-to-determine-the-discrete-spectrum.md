@@ -12,7 +12,7 @@ The dependence of the prediction quality of a
 neural network with a special architecture on the number of soliton 
 modes in the signal and the parameters of this signal is studied.
 
-Download paper [here](http://esf0.github.io/files/application_of_neural_networks_to_determine_the_discrete_spectrum.pdf) or 
+Download paper [here](http://esf0.github.io/files/publication/application_of_neural_networks_to_determine_the_discrete_spectrum.pdf) or 
 [here](https://iopscience.iop.org/article/10.1088/1748-0221/12/06/C06034)
 
 ```

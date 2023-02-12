@@ -13,7 +13,7 @@ eigenvalues taking into account their multiplicity faster than matrix methods an
 The method shows significant advantage over other methods when calculating a large discrete spectrum, 
 both in speed and accuracy.
 
-Download paper [here](http://esf0.github.io/files/soliton_content.pdf) or
+Download paper [here](http://esf0.github.io/files/publication/soliton_content.pdf) or
 [here](https://www.sciencedirect.com/science/article/pii/S1007570421000290)
 
 ```

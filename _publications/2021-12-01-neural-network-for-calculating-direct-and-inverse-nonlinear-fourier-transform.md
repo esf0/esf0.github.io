@@ -12,7 +12,7 @@ The average value of the relative error in predicting the continuous spectrum by
 when calculating the direct NFT is found to be 2.68×10−3, 
 and the average value of the relative error in predicting the signal for the inverse NFT is 1.62×10−4.
 
-Download paper [here](http://esf0.github.io/files/neural_network_for_calculating_direct_and_inverse_nonlinear_fourier_transform.pdf) or 
+Download paper [here](http://esf0.github.io/files/publication/neural_network_for_calculating_direct_and_inverse_nonlinear_fourier_transform.pdf) or 
 [here](https://iopscience.iop.org/article/10.1070/QEL17655)
 
 ```

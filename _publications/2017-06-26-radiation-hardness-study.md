@@ -13,8 +13,9 @@ crystals with known scintillation characteristics are irradiated with photons at
 35 krad. Results show acceptable radiation hardness for the Belle II experiment conditions where
 the accumulated dose in crystals could reach 10 krad.
 
-Download paper [here](http://esf0.github.io/files/radiation_hardness.pdf) or 
+Download paper [here](http://esf0.github.io/files/publication/radiation_hardness.pdf) or 
 [here](https://iopscience.iop.org/article/10.1088/1748-0221/12/06/C06034)
+
 
 ```
 @article{chakin2017radiation,

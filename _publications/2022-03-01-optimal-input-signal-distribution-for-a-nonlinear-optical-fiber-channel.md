@@ -18,7 +18,7 @@ order in the parameter 1/SNR. Using the mutual information, we find the optimal 
 distribution and channel capacity in the leading and next-to-leading order in the nonlinearity parameter. 
 Finally, we present the method of the construction of the input signal with the optimal statistics for the given shape of the signal.
 
-Download paper [here](http://esf0.github.io/files/optimal_input_signal_distribution_for_a_nonlinear_optical_fiber_channel.pdf) or 
+Download paper [here](http://esf0.github.io/files/publication/optimal_input_signal_distribution_for_a_nonlinear_optical_fiber_channel.pdf) or 
 [here](https://opg.optica.org/josab/fulltext.cfm?uri=josab-39-3-810&id=469535&ibsearch=false)
 
 Complete version on [arXiv](https://arxiv.org/abs/2106.11586)
