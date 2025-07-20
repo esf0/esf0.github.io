@@ -1,6 +1,7 @@
 ---
 title: "Neural Networks For Nonlinear Fourier Spectrum Computation"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-09-13-neural-networks-for-nonlinear-fourier-spectrum-computation
 excerpt: ''
 date: 2021-09-13

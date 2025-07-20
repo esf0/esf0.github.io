@@ -1,6 +1,7 @@
 ---
 title: "Computing continuous nonlinear Fourier spectrum of optical signal with artificial neural networks"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-08-01-computing-continuous-nonlinear-fourier-spectrum-of-optical-signal-with-artificial-neural-networks
 excerpt: ''
 date: 2021-08-01

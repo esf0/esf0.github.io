@@ -1,6 +1,7 @@
 ---
 title: "Radiation hardness study of CsI(Tl) scintillation crystals for the Belle II calorimeter"
 collection: publications
+category: manuscripts
 permalink: /publication/2017-06-26-radiation-hardness-study
 excerpt: ''
 date: 2017-06-26

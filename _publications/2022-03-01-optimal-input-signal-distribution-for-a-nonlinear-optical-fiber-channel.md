@@ -1,6 +1,7 @@
 ---
 title: "Optimal input signal distribution for a nonlinear optical fiber channel with small Kerr nonlinearity"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-03-01-optimal-input-signal-distribution-for-a-nonlinear-optical-fiber-channel
 excerpt: ''
 date: 2022-03-01

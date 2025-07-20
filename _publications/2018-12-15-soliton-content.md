@@ -1,6 +1,7 @@
 ---
 title: "Soliton content in the standard optical OFDM signal"
 collection: publications
+category: manuscripts
 permalink: /publication/2018-12-15-soliton-content
 excerpt: ''
 date: 2018-12-15
