@@ -1,7 +1,7 @@
 ---
 title: "Deep learning for signal processing in nonlinear optical fibre communication systems"
 collection: publications
-type: books
+category: thesis
 permalink: /publication/2023-07-10-phd-thesis-nonlinear-optical
 excerpt: ''
 date: 2023-07-10
