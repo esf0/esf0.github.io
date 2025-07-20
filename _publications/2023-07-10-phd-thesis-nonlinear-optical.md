@@ -5,7 +5,7 @@ category: thesis
 permalink: /publication/2023-07-10-phd-thesis-nonlinear-optical
 excerpt: ''
 date: 2023-07-10
-venue: 'PhD Thesis, Aston University'
+venue: 'PhD Thesis, Aston University, Birmingham, UK'
 ---
 This PhD thesis explores the integration of deep learning methods into nonlinear optical communication systems. The work includes multiple contributions to NFT-based modulation, neural equalizers, and deep inference from physical waveform representations under the nonlinear Schrödinger model.
 
