@@ -1,7 +1,7 @@
 ---
 title: "Continuous dual-polarization signal processing using windowed Nonlinear Fourier Transform"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-06-24-continuous-dual-polarization-signal-processing-using-windowed-nonlinear-fourier-transform
 excerpt: ''
 date: 2024-06-24
