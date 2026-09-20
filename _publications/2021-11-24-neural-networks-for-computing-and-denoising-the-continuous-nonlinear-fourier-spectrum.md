@@ -26,6 +26,8 @@ Download paper [here](http://esf0.github.io/files/publication/neural_networks_fo
 [here](https://www.nature.com/articles/s41598-021-02252-9)  
 Initial version at [researchsquare](https://assets.researchsquare.com/files/rs-654419/v1_covered.pdf?c=1631871409)
 
+DOI: [10.1038/s41598-021-02252-9](https://doi.org/10.1038/s41598-021-02252-9)
+
 ```
 @article{sedov2021neural,
   title={Neural networks for computing and denoising the continuous nonlinear Fourier spectrum in focusing nonlinear Schr{\"o}dinger equation},

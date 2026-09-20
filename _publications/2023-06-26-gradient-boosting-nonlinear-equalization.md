@@ -13,6 +13,8 @@ GB is presented as a viable alternative to neural networks for mitigating signal
 Download paper [here](http://esf0.github.io/files/publication/gradient_boosting_nonlinear_equalization_optical_transmission.pdf) or
 [here](https://ieeexplore.ieee.org/abstract/document/10231699)
 
+DOI: [10.1109/cleo/europe-eqec57999.2023.10231699](https://doi.org/10.1109/cleo/europe-eqec57999.2023.10231699)
+
 ```
 @inproceedings{sedov2023gradient,
   title={Gradient Boosting for Nonlinear Equalization in Optical Transmission Systems},

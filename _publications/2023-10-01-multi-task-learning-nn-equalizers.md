@@ -14,6 +14,8 @@ without requiring re-training, even under varying launch power, symbol rate, or 
 Download paper [here](http://esf0.github.io/files/publication/multi_task_learning_nn_equalizers_coherent_optical_systems.pdf) or  
 [here](https://arxiv.org/abs/2307.05374)
 
+DOI: [10.1049/icp.2023.2276](https://doi.org/10.1049/icp.2023.2276)
+
 ```bibtex
 @inproceedings{srivallapanondh2023multi,
   title={Multi-task learning to enhance generalizability of neural network equalizers in coherent optical systems},

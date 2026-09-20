@@ -27,6 +27,8 @@ OFDM symbol with high probability has a soliton component.
 Download paper [here](https://esf0.github.io/files/publication/nonlinear_spectrum_of_conventional_ofdm_and_wdm.pdf) or 
 [here](https://ieeexplore.ieee.org/abstract/document/8915744)
 
+DOI: [10.1109/jlt.2019.2956236](https://doi.org/10.1109/jlt.2019.2956236)
+
 ```bibtex
 @article{turitsyn2019nonlinear,
   title={Nonlinear spectrum of conventional OFDM and WDM return-to-zero signals in nonlinear channel},

@@ -16,6 +16,8 @@ and the average value of the relative error in predicting the signal for the inv
 Download paper [here](http://esf0.github.io/files/publication/neural_network_for_calculating_direct_and_inverse_nonlinear_fourier_transform.pdf) or 
 [here](https://iopscience.iop.org/article/10.1070/QEL17655)
 
+DOI: [10.1070/qel17655](https://doi.org/10.1070/qel17655)
+
 ```
 @article{sedov2021neural,
   title={Neural network for calculating direct and inverse nonlinear Fourier transform},

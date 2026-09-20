@@ -12,6 +12,8 @@ combining chromatic dispersion compensation and sliding window NFT techniques to
 
 Download paper [here](http://esf0.github.io/files/publication/continuous_dual_polarization_signal_processing_using_windowed_nonlinear_fourier_transform.pdf)
 
+DOI: [10.1109/iclo59702.2024.10624045](https://doi.org/10.1109/iclo59702.2024.10624045)
+
 ```bibtex
 @inproceedings{chekhovskoy2024continuous,
   title={Continuous dual-polarization signal processing using windowed Nonlinear Fourier Transform},

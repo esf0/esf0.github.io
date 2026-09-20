@@ -118,14 +118,8 @@ Awards
 * Erasmus+ scholarship (2018); French Government scholarship (2017)
 * BP scholarship (2014, 2015); PricewaterhouseCoopers scholarship (2013)
 
-Publications
+Publications and talks
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* [Publications](/publications/): journal articles, conference papers, theses and preprints. Also on [Google Scholar]({{ site.author.googlescholar }}) and [ORCID]({{ site.author.orcid }}).
+* [Talks](/talks/): conference talks and posters.

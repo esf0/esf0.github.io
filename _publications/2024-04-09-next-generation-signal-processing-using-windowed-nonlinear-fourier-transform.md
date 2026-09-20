@@ -13,6 +13,8 @@ Our strategy notably elevates the effectiveness of Nonlinear Fourier Transform (
 
 Download paper [here](http://esf0.github.io/files/publication/next_generation_signal_processing_using_windowed_nonlinear_fourier_transform.pdf)
 
+DOI: [10.1117/12.3022429](https://doi.org/10.1117/12.3022429)
+
 ```bibtex
 @inproceedings{sedov2024next,
   title={Next-generation signal processing using windowed nonlinear Fourier transform},

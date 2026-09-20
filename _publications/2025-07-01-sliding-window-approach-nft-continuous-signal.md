@@ -13,6 +13,8 @@ For each segment, the chromatic dispersion is compensated to minimize the impact
 
 Download paper [here](https://ssrn.com/abstract=5358703)
 
+DOI: [10.2139/ssrn.5358703](https://doi.org/10.2139/ssrn.5358703)
+
 ```bibtex
 @article{chekhovskoy2025sliding,
   title={Sliding Window Approach for Continuous Signal Processing with Nonlinear Fourier Transform},

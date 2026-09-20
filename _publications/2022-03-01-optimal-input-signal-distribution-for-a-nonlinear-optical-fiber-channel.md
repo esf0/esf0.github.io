@@ -24,6 +24,8 @@ Download paper [here](http://esf0.github.io/files/publication/optimal_input_sign
 
 Complete version on [arXiv](https://arxiv.org/abs/2106.11586)
 
+DOI: [10.1364/josab.445376](https://doi.org/10.1364/josab.445376)
+
 ```
 @article{reznichenko2022optimal,
   title={Optimal input signal distribution for a nonlinear optical fiber channel with small Kerr nonlinearity},

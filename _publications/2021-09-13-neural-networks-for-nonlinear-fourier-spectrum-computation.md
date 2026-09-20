@@ -15,6 +15,8 @@ neural networks capable to compute nonlinear signal spectrum at low SNR more acc
 Download paper [here](http://esf0.github.io/files/publication/neural_networks_for_nonlinear_fourier_spectrum_computation.pdf) or 
 [here](https://ieeexplore.ieee.org/abstract/document/9605844)
 
+DOI: [10.1109/ecoc52684.2021.9605844](https://doi.org/10.1109/ecoc52684.2021.9605844)
+
 ```
 @inproceedings{sedov2021neural,
   title={Neural Networks For Nonlinear Fourier Spectrum Computation},

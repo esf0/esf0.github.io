@@ -18,6 +18,8 @@ Download paper [here](http://esf0.github.io/files/publication/radiation_hardness
 [here](https://iopscience.iop.org/article/10.1088/1748-0221/12/06/C06034)
 
 
+DOI: [10.1088/1748-0221/12/06/c06034](https://doi.org/10.1088/1748-0221/12/06/c06034)
+
 ```
 @article{chakin2017radiation,
   title={Radiation hardness study of CsI (Tl) scintillation crystals for the Belle II calorimeter},

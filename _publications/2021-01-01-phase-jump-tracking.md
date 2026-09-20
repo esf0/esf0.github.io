@@ -17,6 +17,8 @@ both in speed and accuracy.
 Download paper [here](http://esf0.github.io/files/publication/soliton_content.pdf) or
 [here](https://www.sciencedirect.com/science/article/pii/S1007570421000290)
 
+DOI: [10.1016/j.cnsns.2021.105718](https://doi.org/10.1016/j.cnsns.2021.105718)
+
 ```
 @article{chekhovskoy2021introducing,
   title={Introducing phase jump tracking-a fast method for eigenvalue evaluation of the direct Zakharov-Shabat problem},

@@ -25,6 +25,8 @@ is relevant to a more general physical problem of the generation of coherent str
 Download paper [here](http://esf0.github.io/files/publication/soliton_content.pdf)
 or [here](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-43-24-5985)
 
+DOI: [10.1364/ol.43.005985](https://doi.org/10.1364/ol.43.005985)
+
 ```bibtex
 @article{sedov2018soliton,
   title={Soliton content in the standard optical OFDM signal},
