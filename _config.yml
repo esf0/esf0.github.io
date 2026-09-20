@@ -87,6 +87,8 @@ publication_category:
     title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
+  preprints:
+    title: 'Preprints'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -161,7 +163,7 @@ analytics:
 author:
   name             : "Egor Sedov"
   avatar           : "profile.jpg"
-  bio              : "PhD | Researcher | Machine Learning | AI engineering"
+  bio              : "PhD | Machine Learning & Software Engineer | Metrology | AI consulting"
   location         : "Senningerberg, Luxembourg"
   employer         :
   pubmed           :
@@ -181,7 +183,7 @@ author:
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "egorsedov"
   orcid            : "https://orcid.org/0000-0002-4343-8032"
   pinterest        :
   soundcloud       :

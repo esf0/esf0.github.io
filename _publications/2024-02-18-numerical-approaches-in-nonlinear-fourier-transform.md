@@ -1,5 +1,5 @@
 ---
-title: "Numerical Approaches in Nonlinear Fourier Transform‐Based Signal Processing for Fiber‐Optic Communications"
+title: "Numerical Approaches in Nonlinear Fourier Transform‐Based Signal Processing for Telecommunications"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-18-numerical-approaches-in-nonlinear-fourier-transform
