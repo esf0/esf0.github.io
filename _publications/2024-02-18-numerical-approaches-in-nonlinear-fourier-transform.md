@@ -4,14 +4,14 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-02-18-numerical-approaches-in-nonlinear-fourier-transform
 excerpt: ''
-date: 2024-02-18
+date: 2025-01-01
 venue: 'Studies in Applied Mathematics'
 ---
-This work provides a comprehensive analysis of numerical methods used in NFT-based systems, 
-offering a comparison of computational efficiency, accuracy, and their applicability in practical fiber-optic communication setups.
+We discuss applications of the inverse scattering transform, also known as the nonlinear Fourier transform (NFT) in telecommunications, both for nonlinear optical fiber communication channel equalization and time-domain signal processing techniques.
+Our main focus is on the challenges and recent progress in the development of efficient numerical algorithms and approaches to NFT implementation.
 
-Download paper [here](http://esf0.github.io/files/publication/numerical_approaches_nonlinear_fourier_transform_fiber_optic_communications.pdf) or  
-[here](https://doi.org/10.1111/sapm.12598)
+Download paper [here](https://onlinelibrary.wiley.com/doi/pdf/10.1111/sapm.12795) (open access) or
+[here](https://doi.org/10.1111/sapm.12795). Author copy: [PDF](http://esf0.github.io/files/publication/numerical_approaches_nonlinear_fourier_transform_fiber_optic_communications.pdf)
 
 ```bibtex
 @article{sedov2025numerical,
@@ -22,6 +22,7 @@ Download paper [here](http://esf0.github.io/files/publication/numerical_approach
   number={1},
   pages={e12795},
   year={2025},
-  publisher={Wiley Online Library}
+  publisher={Wiley Online Library},
+  doi={10.1111/sapm.12795}
 }
 ```

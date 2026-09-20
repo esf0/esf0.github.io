@@ -7,8 +7,11 @@ excerpt: ''
 date: 2021-06-21
 venue: 'The European Conference on Lasers and Electro-Optics (CLEO/Europe-EQEC 2021)'
 ---
-Conference version of the phase jump tracking method for finding the discrete eigenvalues of the direct Zakharov-Shabat problem, adapted to telecommunication signals.
+We propose a new fast method with adaptive step size phase jump tracking for determining the discrete spectrum of the Zakharov-Shabat problem.
+This method is based on moving on a complex plane along special trajectories.
 The full method is described in the [journal article](/publication/2021-01-01-phase-jump-tracking).
+
+Download paper [here](https://doi.org/10.1109/CLEO/Europe-EQEC52157.2021.9542265)
 
 ```bibtex
 @inproceedings{chekhovskoy2021fast,
@@ -17,6 +20,7 @@ The full method is described in the [journal article](/publication/2021-01-01-ph
   booktitle={The European Conference on Lasers and Electro-Optics},
   pages={ci\_p\_2},
   year={2021},
-  organization={Optica Publishing Group}
+  organization={Optica Publishing Group},
+  doi={10.1109/CLEO/Europe-EQEC52157.2021.9542265}
 }
 ```
