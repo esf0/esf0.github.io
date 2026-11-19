@@ -12,7 +12,7 @@ Hi, and thank you for visiting my personal webpage!
 
 I'm a machine learning researcher and software engineer with a PhD from Aston University, based in Luxembourg.
 I currently lead the Metrology Department at an industrial 3D-scanner manufacturer, where I build the verification
-and certification tooling behind production scanners. Alongside that I work as an independent AI/ML consultant,
+and certification tooling behind production scanners. Alongside that I am an AI enthusiast,
 building LLM agents, retrieval systems and voice interfaces.
 
 Before that I worked in research for about eight years, first in Novosibirsk and then at the Aston Institute of Photonic

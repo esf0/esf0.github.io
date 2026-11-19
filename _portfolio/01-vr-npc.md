@@ -16,4 +16,4 @@ person is answering.
 * **Procedural quest generation** driven by the same language-model stack.
 * **Distributed backend and deployment**, including model selection, retrieval, cloud services and latency optimisation, delivered end to end.
 
-I later reused the same building blocks (voice pipelines, RAG, agent orchestration) in consulting projects.
+I later reused the same building blocks (voice pipelines, RAG, agent orchestration) in independent projects.
